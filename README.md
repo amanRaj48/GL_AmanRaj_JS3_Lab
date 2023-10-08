@@ -1,2 +1,2 @@
-# GL_AmanRaj_JS3_Lab
+# GL_AmanRaj_JS_Lab3
 Weather Application
